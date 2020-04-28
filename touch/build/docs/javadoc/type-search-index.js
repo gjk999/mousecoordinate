@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"touch","l":"BackgroundTask"},{"p":"touch","l":"CoordArray"},{"p":"touch","l":"Main"},{"p":"touch","l":"NetClient"}]
